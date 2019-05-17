@@ -1,4 +1,4 @@
 ---
 permalink: /macOS/
 ---
-# Administrative information
+# MacOS Introductions
