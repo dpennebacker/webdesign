@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mr. Pennebacker's Web Design Course
 
 You can use the [editor on GitHub](https://github.com/dpennebacker/webdesign/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
