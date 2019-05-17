@@ -1,0 +1,4 @@
+---
+permalink: /macOS/
+---
+# Administrative information
