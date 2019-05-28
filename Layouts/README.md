@@ -5,10 +5,10 @@ permalink: /Layouts/
 
 ## Designing Layouts (User Interface)
 a.	Terms 
-  i.	White space, columns, hierarchy, color themes
+  i.	<a href="https://1stwebdesigner.com/beautiful-whitespace-web-design/">White space</a>, <a href="https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/">columns</a>, <a href="https://www.woodst.com/web-design-development/hierarchy-web-site-design/">hierarchy</a>, <a href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF">color themes</a>
 b.	Design Tools
   i.	Digital Color Meter
-  ii.	Palletton
+  ii.	<a href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF">Palletton</a>
   iii.	Screen Shot
 c.	Photoshop Introduction
   i.	File types
