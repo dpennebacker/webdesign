@@ -11,7 +11,7 @@ permalink: /Layouts/
   - <a href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF">Palletton</a>
   - <a href="https://support.apple.com/en-us/HT201361">Screen Shot</a>
 - Photoshop Introduction
-  - File types
+  - <a href="https://helpx.adobe.com/photoshop/using/file-formats.html">File types</a>
   - Tools/Techniques
     - Type, adding images, removing background, selection, layers, saving/exporting
   - Design site logo
