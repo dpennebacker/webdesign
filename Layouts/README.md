@@ -22,6 +22,6 @@ permalink: /Layouts/
   - Design site logo
 - Layout in Photoshop
   - Well-designed site vs. poorly-designed site: critique/scavenger hunt (<a href="https://drive.google.com/file/d/1fNy11_RB-2amfGXFqNpxivVPn6epcjR8/view?usp=sharing">PDF</a>)
-  - Picking a color scheme (from logo creation) (<a hred="https://drive.google.com/file/d/1y4f3WUAHqUkk2UBazGYYvo_ge62FStCc/view?usp=sharing">PDF</a>)
+  - Picking a color scheme (from logo creation) (<a href="https://drive.google.com/file/d/1y4f3WUAHqUkk2UBazGYYvo_ge62FStCc/view?usp=sharing">PDF</a>)
   - Redesign poorly designed site via Photoshop
   - Presentation of new vs. old and what/why improvements were made
