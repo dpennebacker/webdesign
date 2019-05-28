@@ -3,6 +3,11 @@ permalink: /Layouts/
 ---
 # Designing Layouts (User Interface)
 
+## Projects
+- Terms Slides Client Presentation (link needed to PDF - student find a website, convince client to change layout on existing site to a more conventional/modern site. 
+- Design Tools Reverse Engineer (link needed to PDF - student find  a website, add new logo, change color scheme of site. 
+
+
 ## Designing Layouts (User Interface)
 - Terms 
   - <a href="https://1stwebdesigner.com/beautiful-whitespace-web-design/">White space</a>, <a href="https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/">columns</a>, <a href="https://www.woodst.com/web-design-development/hierarchy-web-site-design/">hierarchy</a>, <a href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF">color themes</a>
