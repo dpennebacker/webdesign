@@ -12,3 +12,6 @@ Before we get into creating websites, we need to understand a little terminology
 ## Assignment
 
 1. <a href="https://docs.google.com/document/d/1OzynI8tRm7bQnCbdQK6i4diZykNknwFacEJ4Dfay_FI/edit?usp=sharing">How the Internet Works</a> (submitted via Google Classroom)
+
+## Resources/Slides
+<iframe src="https://docs.google.com/a/pvsd.org/presentation/d/e/2PACX-1vRTE77WpbE2Bs-TSlopW3HZURb0WzTi8DVfDbb6nAH9N31pLYh73Te6OOCAcQS_JbVuJU2gsMfaaqrs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
