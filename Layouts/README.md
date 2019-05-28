@@ -19,7 +19,7 @@ permalink: /Layouts/
   - <a href="https://helpx.adobe.com/photoshop/using/file-formats.html">File types</a>
   - Tools/Techniques
     - <a href="https://helpx.adobe.com/photoshop/using/creating-type.html">Type</a>, <a href="https://helpx.adobe.com/photoshop/using/creating-opening-importing-images.html">adding images</a>, <a href="https://helpx.adobe.com/photoshop/using/erasing-parts-image.html">removing background</a>, <a href="https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html">selection</a>, <a href="https://helpx.adobe.com/photoshop/using/layer-basics.html">layers</a>, <a href="https://helpx.adobe.com/photoshop/using/saving-images.html">saving/exporting</a>
-  - Design site logo
+  - <a href="https://justcreative.com/2009/07/27/what-makes-a-good-logo/">Design site logo</a>
 - Layout in Photoshop
   - Well-designed site vs. poorly-designed site: critique/scavenger hunt (<a href="https://drive.google.com/file/d/1fNy11_RB-2amfGXFqNpxivVPn6epcjR8/view?usp=sharing">PDF</a>)
   - Picking a color scheme (from logo creation) (<a href="https://drive.google.com/file/d/1y4f3WUAHqUkk2UBazGYYvo_ge62FStCc/view?usp=sharing">PDF</a>)
