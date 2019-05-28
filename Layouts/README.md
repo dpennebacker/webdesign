@@ -13,7 +13,7 @@ permalink: /Layouts/
 - Photoshop Introduction
   - <a href="https://helpx.adobe.com/photoshop/using/file-formats.html">File types</a>
   - Tools/Techniques
-    - Type, adding images, removing background, selection, layers, saving/exporting
+    - <a href="https://helpx.adobe.com/photoshop/using/creating-type.html">Type</a>, <a href="https://helpx.adobe.com/photoshop/using/creating-opening-importing-images.html">adding images</a>, <a href="https://helpx.adobe.com/photoshop/using/erasing-parts-image.html">removing background</a>, <a href="https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html">selection</a>, <a href="https://helpx.adobe.com/photoshop/using/layer-basics.html">layers</a>, <a href="https://helpx.adobe.com/photoshop/using/saving-images.html">saving/exporting</a>
   - Design site logo
 - Layout in Photoshop
   - Well-designed site vs. poorly-designed site: critique/scavenger hunt
