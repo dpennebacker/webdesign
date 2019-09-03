@@ -4,7 +4,7 @@ permalink: /Layouts/
 # Designing Layouts (User Interface)
 
 ## Projects
-- Terms Slides Client Presentation (link needed to PDF - student find a website, convince client to change layout on existing site to a more conventional/modern site. 
+- Terms Slides Client Presentation (<a href ="https://drive.google.com/file/d/13ipWD4a7JD1kzb9AZTDCIrdHmYOv8HhH/view?usp=sharing">PDF</a> - student find a website, convince client to change layout on existing site to a more conventional/modern site. 
 - Design Tools Reverse Engineer (link needed to PDF - student find  a website, add new logo, change color scheme of site. 
 
 
