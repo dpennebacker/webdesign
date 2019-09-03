@@ -5,7 +5,7 @@ permalink: /Layouts/
 
 ## Projects
 - Terms Slides Client Presentation (<a href ="https://drive.google.com/file/d/13ipWD4a7JD1kzb9AZTDCIrdHmYOv8HhH/view?usp=sharing">PDF</a> - student find a website, convince client to change layout on existing site to a more conventional/modern site. 
-- Design Tools Reverse Engineer (link needed to PDF - student find  a website, add new logo, change color scheme of site. 
+- Design Tools Reverse Engineer (<a href ="https://drive.google.com/file/d/1rxQ81L1pdZcX9nYk6K-BD-uF84pI9Jqw/view?usp=sharing">PDF</a> - student find  a website, add new logo, change color scheme of site. 
 
 
 ## Designing Layouts (User Interface)
