@@ -8,6 +8,11 @@ permalink: /Layouts/
 - Design Tools Reverse Engineer (<a href ="https://drive.google.com/file/d/1rxQ81L1pdZcX9nYk6K-BD-uF84pI9Jqw/view?usp=sharing">PDF</a> - student find  a website, add new logo, change color scheme of site. 
 
 
+## Video
+- Using Developer Tools to Display Local Image
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qsT1aX8jIGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Designing Layouts (User Interface)
 - Terms 
   - <a href="https://1stwebdesigner.com/beautiful-whitespace-web-design/">White space</a>, <a href="https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/">columns</a>, <a href="https://www.woodst.com/web-design-development/hierarchy-web-site-design/">hierarchy</a>, <a href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF">color themes</a>
